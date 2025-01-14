@@ -1,0 +1,16 @@
+hostname,index,timestamp,attack_type,attack_step,attack_flag
+victim,0,1716947313.0,benign,benign,0
+victim,1,1716947324.0,benign,benign,0
+victim,2,1716947335.0,benign,benign,0
+victim,3,1716947346.0,benign,benign,0
+victim,4,1716947358.0,benign,benign,0
+victim,5,1716947369.0,benign,benign,0
+victim,6,1716947380.0,benign,benign,0
+victim,7,1716947391.0,benign,benign,0
+victim,8,1716947402.0,benign,benign,0
+victim,9,1716947414.0,benign,benign,0
+victim,10,1716947425.0,benign,benign,0
+victim,11,1716947436.0,benign,benign,0
+victim,12,1716947447.0,benign,benign,0
+victim,13,1716947458.0,benign,benign,0
+victim,14,1716947470.0,benign,benign,0

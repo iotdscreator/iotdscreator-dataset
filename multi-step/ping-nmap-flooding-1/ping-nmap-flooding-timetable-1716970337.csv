@@ -1,0 +1,3 @@
+att,172.31.72.33,ping,1716970347,145,reconnaissance
+att,172.31.72.33,nmap,1716970397,10,reconnaissance
+att,172.31.72.33,flooding,1716970457,10,action
