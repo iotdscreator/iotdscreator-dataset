@@ -1,0 +1,3 @@
+index,timestamp,protocol,id,src_ip,dst_ip,attack_type,attack_step,attack_flag
+1,1736941611.56047,TCP,55279,172.31.212.106,172.18.0.2,http_simple_get_request,benign,0
+2,1736941611.560483,TCP,0,172.18.0.2,172.31.212.106,normal,infection,1
