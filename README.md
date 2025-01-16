@@ -22,26 +22,31 @@ We generate 16 datasets, which are categorized as five types including single at
  - Example of the LDAP server, which is typically used in the log4j attack
  - An attacker launches the ping to find a LDAP server, and performs the SYN flooding to the LDAP server.
 
-### 4. port scanning
+### 4. port scanning (#4)
 
  - Example of the port scanning
  - An attacker performs the port scanning attack to find a vulnerable hole
 
-### 5. 
+### 5. SSH bruteforce attack (#5)
+
+ - Example of the dictionary attack
+ - An attacker attempts to find a SSH credential on a target device based on several potential credentials.
 
 ## Multi-step Attacks
 
-### 1. ping-nmap-flooding-1
+### 1. ping-nmap-flooding-1 (#6)
 
  - Example of the multi-step attack with the large sliding window
  - An attacker launches the three-step attack. First, the attacker searches an IP address that the attacker can communicate with by sending ICMP packets to arbitrary IP addresses (labeled as ''reconnaissance''). Once the attacker finds a victim, the attacker scans open ports from the victim (also labeled as ''reconnaissance''). Finally, the attacker launches the TCP SYN flooding attack to an open port (labeled as ''action'').
  - You can find the example scenario description under the directory of ''ping-nmap-flooding''
 
-### 2. ping-nmap-flooding-2 (much detailed with a smaller window)
+### 2. ping-nmap-flooding-2 (much detailed with a smaller window) (#7)
 
  - Example of the multi-step attack with the small sliding window
  - An attacker launches the three-step attack. First, the attacker searches an IP address that the attacker can communicate with by sending ICMP packets to arbitrary IP addresses (labeled as ''reconnaissance''). Once the attacker finds a victim, the attacker scans open ports from the victim (also labeled as ''reconnaissance''). Finally, the attacker launches the TCP SYN flooding attack to an open port (labeled as ''action'').
  - You can find the example scenario description under the directory of ''ping-nmap-flooding''
+
+### 3. (#8)
 
 ## CVE Datasets
 
