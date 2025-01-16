@@ -10,7 +10,12 @@ We generate 16 datasets, which are categorized as five types including single at
 ### 1. flooding
 
  - Simple example of the flooding attack
- - An attacker 
+ - An attacker
+
+### 2. log4j malicious server
+
+ - Example of the Log4j malicious server
+ - An attacker
 
 ## Multi-step Attacks
 
