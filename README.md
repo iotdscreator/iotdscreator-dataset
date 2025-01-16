@@ -12,15 +12,22 @@ We generate 16 datasets, which are categorized as five types including single at
  - Simple example of the flooding attack
  - An attacker performs the SYN flooding to a target
 
-### 2. log4j malicious server
+### 2. log4j malicious server (#2)
 
  - Example of the Log4j malicious server
  - An attacker (i.e., the malicious server) reponds with the malicious response on a valid request from a victim
 
-### 3. ldap_server
+### 3. ldap server (#3)
 
  - Example of the LDAP server, which is typically used in the log4j attack
  - An attacker launches the ping to find a LDAP server, and performs the SYN flooding to the LDAP server.
+
+### 4. port scanning
+
+ - Example of the port scanning
+ - An attacker performs the port scanning attack to find a vulnerable hole
+
+### 5. 
 
 ## Multi-step Attacks
 
